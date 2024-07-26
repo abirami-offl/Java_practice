@@ -1,3 +1,3 @@
 ##### 1. LINKEDLIST
 ##### 2. NUMBERS
-##### 3. JAVA PROBLEMS
+##### 3. JAVA BASIC PROBLEMS
